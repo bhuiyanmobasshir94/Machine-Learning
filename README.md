@@ -1,2 +1,2 @@
-# machine-learning-base
-Showcasing of my machinne learning research, experiement and development
+# Machine Learning
+Showcasing of my machine learning research, experiement and development
