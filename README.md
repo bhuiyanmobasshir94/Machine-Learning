@@ -7,3 +7,4 @@ Showcasing of my machine learning research, experiement and development
 | Beam Search Decoding in CTC-trained Neural Networks | OCR | [link](https://towardsdatascience.com/beam-search-decoding-in-ctc-trained-neural-networks-5a889a3d85a7) |
 | Sequence Modeling With CTC | OCR | [link](https://distill.pub/2017/ctc/) |
 | EasyOCR | OCR | [link](https://github.com/JaidedAI/EasyOCR) |
+| Automating Receipt Digitization with OCR and Deep Learning | OCR | [link](https://nanonets.com/blog/receipt-ocr/) |
