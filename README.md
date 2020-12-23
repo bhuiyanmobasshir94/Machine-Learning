@@ -13,4 +13,8 @@ Showcasing of my machine learning research, experiement and development
 1. [Datacamp](https://github.com/bhuiyanmobasshir94/Datacamp)
 2. [Kaggle](https://github.com/bhuiyanmobasshir94/Kaggle)
 
+## Roadmap
+1. RAPIDS
+2. Pytorch
+
 
