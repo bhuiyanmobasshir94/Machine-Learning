@@ -20,4 +20,7 @@ Showcasing of my machine learning research, experiement and development
 1. RAPIDS
 2. Pytorch
 
+## AI Transparency
+1. [PySyft](https://github.com/OpenMined/PySyft)
+2. [Saidot](https://www.saidot.ai/)
 
