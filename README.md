@@ -24,3 +24,6 @@ Showcasing of my machine learning research, experiement and development
 1. [PySyft](https://github.com/OpenMined/PySyft)
 2. [Saidot](https://www.saidot.ai/)
 
+## Starter 
+1. [Your First Machine Learning Project in Python Step-By-Step](https://machinelearningmastery.com/machine-learning-in-python-step-by-step/)
+
