@@ -11,6 +11,7 @@ Showcasing of my machine learning research, experiement and development
 | How to solve 90% of NLP problems: a step-by-step guide | NLP | [link](https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e) |
 | Predicting long-term user engagement from short-term behavior | Analytics | [link](https://blog.insightdatascience.com/predicting-long-term-user-engagement-from-short-term-behavior-2d10d64b2c9f) |
 | Building an image search service from scratch | CV | [link](https://blog.insightdatascience.com/the-unreasonable-effectiveness-of-deep-learning-representations-4ce83fc663cf) |
+| ML Visuals | Visuals | [link](https://github.com/dair-ai/ml-visuals) |
 
 ## My Repositories
 1. [Datacamp](https://github.com/bhuiyanmobasshir94/Datacamp)
