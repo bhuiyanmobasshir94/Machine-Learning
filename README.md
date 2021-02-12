@@ -12,6 +12,7 @@ Showcasing of my machine learning research, experiement and development
 | Predicting long-term user engagement from short-term behavior | Analytics | [link](https://blog.insightdatascience.com/predicting-long-term-user-engagement-from-short-term-behavior-2d10d64b2c9f) |
 | Building an image search service from scratch | CV | [link](https://blog.insightdatascience.com/the-unreasonable-effectiveness-of-deep-learning-representations-4ce83fc663cf) |
 | ML Visuals | Visuals | [link](https://github.com/dair-ai/ml-visuals) |
+| BudgetML | | [link](https://github.com/ebhy/budgetml) |
 
 ## My Repositories
 1. [Datacamp](https://github.com/bhuiyanmobasshir94/Datacamp)
