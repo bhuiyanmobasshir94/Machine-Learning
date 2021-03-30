@@ -13,6 +13,7 @@ Showcasing of my machine learning research, experiement and development
 | Building an image search service from scratch | CV | [link](https://blog.insightdatascience.com/the-unreasonable-effectiveness-of-deep-learning-representations-4ce83fc663cf) |
 | ML Visuals | Visuals | [link](https://github.com/dair-ai/ml-visuals) |
 | BudgetML | | [link](https://github.com/ebhy/budgetml) |
+| Pyspark | | [link](https://jacobcelestine.com/knowledge_repo/colab_and_pyspark/) |
 
 ## My Repositories
 1. [Datacamp](https://github.com/bhuiyanmobasshir94/Datacamp)
