@@ -23,3 +23,4 @@
 22. [Monk Object Detection](https://github.com/Tessellate-Imaging/Monk_Object_Detection)
 23. [ALAE](https://github.com/podgorskiy/ALAE)
 24. [Avatrify Python](https://github.com/alievk/avatarify-python)
+25. [FastBook](https://github.com/fastai/fastbook)
