@@ -31,7 +31,7 @@ Showcasing of my machine learning research, experiement and development
 ## Starter 
 0. [Practical Mchine Learning by Stanford](https://c.d2l.ai/stanford-cs329p/index.html)
 1. [Your First Machine Learning Project in Python Step-By-Step](https://machinelearningmastery.com/machine-learning-in-python-step-by-step/)
-2. [Made with ML](https://madewithml.com/)
+2. [Made with ML ***](https://madewithml.com/) 
 3. [Awesome MLOps](https://github.com/visenger/awesome-mlops)
 4. [Applied ML](https://github.com/eugeneyan/applied-ml)
 
