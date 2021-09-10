@@ -34,6 +34,7 @@ Showcasing of my machine learning research, experiement and development
 2. [Made with ML ***](https://madewithml.com/) 
 3. [Awesome MLOps](https://github.com/visenger/awesome-mlops)
 4. [Applied ML](https://github.com/eugeneyan/applied-ml)
+5. [Distill.pub](https://distill.pub/)
 
 ## Book
 - [The Machine & Deep Learning Compendium](https://book.mlcompendium.com/)
