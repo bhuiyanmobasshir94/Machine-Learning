@@ -36,6 +36,10 @@ Showcasing of my machine learning research, experiement and development
 4. [Applied ML](https://github.com/eugeneyan/applied-ml)
 5. [Distill.pub](https://distill.pub/)
 
+## MLOps
+1. [Python MLOps Cookbook](https://github.com/noahgift/Python-MLOps-Cookbook)
+2. [MLOps-Basics](https://github.com/graviraja/MLOps-Basics)
+
 ## Book
 - [The Machine & Deep Learning Compendium](https://book.mlcompendium.com/)
 
