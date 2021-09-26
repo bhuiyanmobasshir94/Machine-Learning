@@ -44,3 +44,6 @@ Showcasing of my machine learning research, experiement and development
 ## Book
 - [The Machine & Deep Learning Compendium](https://book.mlcompendium.com/)
 
+## Thoughts
+- [How to Train Really Large Models on Many GPUs?](https://lilianweng.github.io/lil-log/2021/09/24/train-large-neural-networks.html)
+- [A friendly introduction to machine learning compilers and optimizers](https://huyenchip.com/2021/09/07/a-friendly-introduction-to-machine-learning-compilers-and-optimizers.html)
