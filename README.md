@@ -51,3 +51,6 @@ Showcasing of my machine learning research, experiement and development
 - [How to Train Really Large Models on Many GPUs?](https://lilianweng.github.io/lil-log/2021/09/24/train-large-neural-networks.html)
 - [A friendly introduction to machine learning compilers and optimizers](https://huyenchip.com/2021/09/07/a-friendly-introduction-to-machine-learning-compilers-and-optimizers.html)
 - [Why data scientists shouldn’t need to know Kubernetes](https://huyenchip.com/2021/09/13/data-science-infrastructure.html)
+
+## Recipies
+- [ML recipies](http://preview.d2l.ai/d2l-recipes/master/)
