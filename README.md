@@ -23,6 +23,7 @@ Showcasing of my machine learning research, experiement and development
 1. RAPIDS
 2. Pytorch
 3. [On the Opportunities and Risks of Foundation Models](https://arxiv.org/pdf/2108.07258.pdf)
+4. [OpenMMLab](https://openmmlab.com/home)
 
 ## AI Transparency
 1. [PySyft](https://github.com/OpenMined/PySyft)
