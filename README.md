@@ -41,6 +41,7 @@ Showcasing of my machine learning research, experiement and development
 5. [Distill.pub](https://distill.pub/)
 6. [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)
 7. [Applied ML](https://github.com/eugeneyan/applied-ml)
+8. [ApplyingML](https://applyingml.com/)
 
 ## MLOps
 1. [Python MLOps Cookbook](https://github.com/noahgift/Python-MLOps-Cookbook)
