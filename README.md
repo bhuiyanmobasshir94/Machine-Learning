@@ -42,6 +42,11 @@ Showcasing of my machine learning research, experiement and development
 6. [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)
 7. [Applied ML](https://github.com/eugeneyan/applied-ml)
 8. [ApplyingML](https://applyingml.com/)
+9. [CS 329S: Machine Learning Systems Design ***](https://stanford-cs329s.github.io/syllabus.html)
+10. [ML Sys Seminars***](https://www.youtube.com/playlist?list=PLSrTvUm384I9PV10koj_cqit9OfbJXEkq)
+
+## Realtime Systems
+1. [The Four Innovation Phases of Netflix’s Trillions Scale Real-time Data Infrastructure](https://zhenzhongxu.com/the-four-innovation-phases-of-netflixs-trillions-scale-real-time-data-infrastructure-2370938d7f01)
 
 ## MLOps
 1. [Python MLOps Cookbook](https://github.com/noahgift/Python-MLOps-Cookbook)
