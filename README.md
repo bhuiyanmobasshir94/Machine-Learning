@@ -50,7 +50,7 @@ Showcasing of my machine learning research, experiement and development
 
 ## MLOps
 1. [Python MLOps Cookbook](https://github.com/noahgift/Python-MLOps-Cookbook)
-2. [MLOps-Basics](https://github.com/graviraja/MLOps-Basics)
+2. [MLOps-Basics](https://github.com/graviraja/MLOps-Basics)***
 
 ## Book
 - [The Machine & Deep Learning Compendium](https://book.mlcompendium.com/)
