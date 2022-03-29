@@ -24,3 +24,4 @@
 23. [ALAE](https://github.com/podgorskiy/ALAE)
 24. [Avatrify Python](https://github.com/alievk/avatarify-python)
 25. [FastBook](https://github.com/fastai/fastbook)
+26. [Machine Learning Systems Design](https://github.com/chiphuyen/machine-learning-systems-design)
