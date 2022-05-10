@@ -26,6 +26,3 @@
 25. [FastBook](https://github.com/fastai/fastbook)
 26. [Machine Learning Systems Design](https://github.com/chiphuyen/machine-learning-systems-design)
 27. [Best-of Machine Learning with Python](https://github.com/ml-tooling/best-of-ml-python)
-
-## @github.io
-1. [PRECISION & RECALL](https://mlu-explain.github.io/precision-recall/)
