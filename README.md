@@ -24,6 +24,7 @@ Showcasing of my machine learning research, experiement and development
 2. Pytorch
 3. [On the Opportunities and Risks of Foundation Models](https://arxiv.org/pdf/2108.07258.pdf)
 4. [OpenMMLab](https://openmmlab.com/home)
+5. [Machine Learning Engineer Learning Path](https://www.cloudskillsboost.google/paths/17)
 
 ## AI Transparency
 1. [PySyft](https://github.com/OpenMined/PySyft)
